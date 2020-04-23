@@ -1,0 +1,490 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"c",
+				"contactnumber"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"pas",
+				"password_2"
+			],
+			[
+				"pass",
+				"password_1"
+			],
+			[
+				"con",
+				"contactnumber"
+			],
+			[
+				"password",
+				"password_1"
+			],
+			[
+				"ses",
+				"session_start"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"loan",
+				"loan_data"
+			],
+			[
+				"loan_da",
+				"loan_analyticsvidhya"
+			],
+			[
+				"w",
+				"working"
+			],
+			[
+				"s",
+				"sleeping"
+			],
+			[
+				"pl",
+				"playing"
+			],
+			[
+				"st",
+				"studying"
+			],
+			[
+				"pop",
+				"popou_ages"
+			],
+			[
+				"Loa",
+				"Loan_Status"
+			],
+			[
+				"p",
+				"pyplot"
+			],
+			[
+				"gam",
+				"game_board"
+			],
+			[
+				"game",
+				"game_map"
+			],
+			[
+				"firm",
+				"firm_board"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/ABHAY AGRAWAL/Dev/trydjango/src/manage.py",
+			"settings":
+			{
+				"buffer_size": 541,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ABHAY AGRAWAL/Dev/trydjango",
+		"/C/Users/ABHAY AGRAWAL/Dev/trydjango/src"
+	],
+	"file_history":
+	[
+		"/C/wamp64/bin/apache/apache2.4.41/conf/httpd.conf",
+		"/C/wamp64/logs/apache_error.log",
+		"/C/wamp64/www/Student DMS/index.php",
+		"/C/wamp64/www/Student DMS/login.php",
+		"/C/wamp64/www/Student DMS/errors.php",
+		"/C/wamp64/www/Student DMS/server.php",
+		"/C/wamp64/www/Student DMS/registration.php",
+		"/C/Users/ABHAY AGRAWAL/Desktop/codes/app.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/codes/todo-flask.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/codes/goenka bhau suggestions",
+		"/C/Users/ABHAY AGRAWAL/Desktop/tree.cpp",
+		"/C/Users/ABHAY AGRAWAL/Desktop/IU/test4.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/IU/test5.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/IU/iu_drivermain.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/IU/test3.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/IU/iu_driver classification.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Speed_calculation/read_jsonfiles.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Speed_calculation/paakkka_abhay.py",
+		"/G/important documents/Mamaearth/python files/multiple_regression.py",
+		"/G/important documents/Mamaearth/python files/fileimporting.py",
+		"/G/important documents/Mamaearth/python files/6.py",
+		"/G/important documents/Mamaearth/python files/14.py",
+		"/G/important documents/Mamaearth/python files/9.py",
+		"/G/important documents/Mamaearth/python files/pandas all.py",
+		"/G/important documents/Mamaearth/python files/diabetes.py",
+		"/G/important documents/Mamaearth/python files/stackplots.py",
+		"/G/important documents/Mamaearth/python files/sklearn1.py",
+		"/G/important documents/Mamaearth/python files/histo4.py",
+		"/G/important documents/Mamaearth/python files/pratice.py",
+		"/G/important documents/Mamaearth/python files/apartment.py",
+		"/G/important documents/Mamaearth/python files/pltr.py",
+		"/G/important documents/Mamaearth/python files/dataframepd.py",
+		"/G/important documents/Mamaearth/python files/scatter.py",
+		"/G/important documents/Mamaearth/python files/13.py",
+		"/G/important documents/Mamaearth/python files/5.py",
+		"/G/important documents/Mamaearth/python files/2.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Speed_calculation/kuchto.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Speed_calculation/kuch.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/IU/img_test1.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/IU/img_pit.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Speed_calculation/n015-2018-10-02-10-50-40+0800__RADAR_FRONT__1538448754049383.pcd",
+		"/C/Users/ABHAY AGRAWAL/Desktop/6 videos/front_left/video_creator_frontleft.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/6 videos/cam_front/video_creator_camfront.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/6 videos/cam_back/video_creator_back.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/6 videos/back_right/video_creator_backright.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/6 videos/back_left/video_creator_backleft.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/6 videos/front_right/video_creator_frontright.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/iu_video/main_video/video_creator.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/6 videos/back_left/video_creator.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/IU/video_creator.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/IU/test2.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/IU/test.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/IU/tutorial.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/IU/1.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Aabrakadabra/ISLR-python-master/tictactoe.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Aabrakadabra/ISLR-python-master/bj.cpp",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Aabrakadabra/ISLR-python-master/jhj.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Aabrakadabra/ISLR-python-master/njn.cpp",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Aabrakadabra/coding_cpp/Find Duplicate in Array.cpp",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Aabrakadabra/coding_cpp/Pascal Triangle.cpp",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Aabrakadabra/coding_cpp/Largest Number .cpp",
+		"/C/Users/ABHAY AGRAWAL/Desktop/queen.cpp",
+		"/C/Users/ABHAY AGRAWAL/Desktop/dfgdsg.cpp",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Verilog_17116001_17116002/vga.ucf",
+		"/C/Users/ABHAY AGRAWAL/Desktop/TCAD/17116004_17116012_verilog_files/17116004_17116012_verilog_files/vga_strip/vga_strip.ucf",
+		"/C/Users/ABHAY AGRAWAL/Desktop/TCAD/17116004_17116012_verilog_files/17116004_17116012_verilog_files/vga_strip/vga_strip.v",
+		"/C/Users/ABHAY AGRAWAL/Desktop/TCAD/17116004_17116012_verilog_files/17116004_17116012_verilog_files/vga_color/constr.ucf",
+		"/C/Users/ABHAY AGRAWAL/Desktop/TCAD/17116004_17116012_verilog_files/17116004_17116012_verilog_files/vga_color/vga.v",
+		"/C/Users/ABHAY AGRAWAL/Desktop/TCAD/17116004_17116012_verilog_files/17116004_17116012_verilog_files/counter/counter.ucf",
+		"/C/Users/ABHAY AGRAWAL/Desktop/TCAD/17116004_17116012_verilog_files/17116004_17116012_verilog_files/counter/counter.v",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Aabrakadabra/fdvdfv.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Aabrakadabra/linearsearch.cpp",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Aabrakadabra/rotationof array.cpp",
+		"/C/Users/ABHAY AGRAWAL/Desktop/stock_data.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/Data Analytics/Diabetes scikit linear example/begin_sales.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/Data Analytics/Diabetes scikit linear example/plot_ols.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/histo5.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/histo1.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/multiple_regression.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/work@mamaearth/antimosquitopatches24.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/Data Analytics/datssets/sample1.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/Data Analytics/datssets/excel python.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/Data Analytics/datssets/sample.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/Data Analytics/Diabetes scikit linear example/boston.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/Data Analytics/Diabetes scikit linear example/boston.py'",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/diabetes.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/linear.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/sklearn1.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/pratice.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/loan_analyticsvidhya.com.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/14.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/fileimporting.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/piechart.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/stackplots.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/scatter.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/loanproblm.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/histo4 bars.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/histo3.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/histo2.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/apartment.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/pltr.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/pandatechniques.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/pandas all.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/661.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/dictionary df.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/dataframepd.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/series pd.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/12.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/10.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/11.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/7.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/6.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/9.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/8.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/5.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/4.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/3.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/2.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/Mamaearth/python files/1.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/start.py",
+		"/C/Users/ABHAY AGRAWAL/AppData/Roaming/Sublime Text 3/Packages/User/efaf",
+		"/C/Users/ABHAY AGRAWAL/AppData/Roaming/Sublime Text 3/Packages/User/Python_RUN.sublime-build",
+		"/C/Users/ABHAY AGRAWAL/AppData/Roaming/Sublime Text 3/Packages/User/python.sublime-build",
+		"/C/Users/ABHAY AGRAWAL/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/G/softwares/zero2.py",
+		"/G/softwares/zero1.py",
+		"/C/Users/ABHAY AGRAWAL/Desktop/trip files/Moore_machine/Moore_machine.srcs/sources_1/new/moore.v",
+		"/C/Users/ABHAY AGRAWAL/Desktop/basys3 constraint file - Copy.xdc"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"avoid\n\n",
+			"location\n\n",
+			"HttpProtocolOptions Unsafe\n\n",
+			"1800",
+			"()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/ABHAY AGRAWAL/Dev/trydjango/src/manage.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "try django sublime project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
